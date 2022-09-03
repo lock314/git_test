@@ -1,1 +1,2 @@
 Adding some text into hello world text file
+Trying the new commit message feature
